@@ -34,26 +34,38 @@ Multiple tuberculosis datasets were cleaned, transformed, and consolidated into 
 
 ---
 
-### Dataset Information
+## 📂 Dataset Information
 
-The WHO tuberculosis datasets contain information on **tuberculosis-related indicators reported across countries, WHO regions, global aggregates, and World Bank income groups**.
+The project uses **10 WHO tuberculosis datasets**, with each dataset representing a specific aspect of the global tuberculosis burden.
 
-The data represents different aspects of the global tuberculosis situation, including:
-
-| Information | What It Represents |
+| Dataset | What It Contains / Represents |
 |---|---|
-| **TB Incidence** | Estimated occurrence of tuberculosis cases within a population. |
-| **TB Cases** | Estimated number of people affected by tuberculosis. |
-| **TB Deaths** | Number of deaths attributed to tuberculosis. |
-| **New and Relapse Cases** | Reported tuberculosis cases that are newly diagnosed or occur as relapses. |
-| **Childhood TB Cases** | Estimated tuberculosis cases among children aged 0–14 years. |
-| **HIV-Positive TB Cases** | Tuberculosis cases occurring among people living with HIV. |
-| **HIV-Negative TB Death Rate** | TB-related deaths among HIV-negative populations, expressed as a rate. |
-| **MDR/RR-TB Cases** | Estimated cases of multidrug-resistant or rifampicin-resistant tuberculosis. |
-| **TB Treatment Coverage** | The proportion or level of estimated TB cases covered by treatment, according to the WHO indicator. |
-| **Geographical Information** | Identifies the country, WHO region, global level, or World Bank income group associated with each observation. |
-| **Time Information** | Indicates the year and time period to which each observation belongs. |
-| **Estimate Ranges** | Provides lower and upper bounds (`Low` and `High`) where estimates are reported with uncertainty ranges. |
+| **TB Incidence** | Estimated TB incidence rate, representing the occurrence of tuberculosis cases in the population. |
+| **TB Incidence Cases** | Estimated number of incident tuberculosis cases. |
+| **TB New and Relapse Cases** | Number of newly diagnosed and relapse TB cases. |
+| **TB Deaths Excluding HIV** | Estimated TB deaths excluding deaths among people living with HIV. |
+| **TB HIV-Positive Incidence** | Estimated TB incidence among people living with HIV. This dataset had no 2024 records and was therefore not included in the 2024 analysis. |
+| **TB HIV-Positive Cases** | Estimated number of TB cases among people living with HIV. |
+| **TB HIV-Negative Deaths** | Estimated TB deaths among HIV-negative populations, including the corresponding death rate. |
+| **TB Cases in Children Aged 0–14** | Estimated number of tuberculosis cases among children aged 0–14 years. |
+| **TB MDR/RR-TB Incident Cases** | Estimated number of incident multidrug-resistant/rifampicin-resistant TB cases. |
+| **TB Treatment Coverage** | Information on the level of TB treatment coverage reported for the population. |
+
+### Common Information in the Datasets
+
+The datasets contain common fields providing information about each observation:
+
+- **ID** — Unique identifier for the record.
+- **Indicator Code** — Code representing the specific TB indicator.
+- **Spatial Dimension** — Geographical dimension of the data.
+- **Spatial Dimension Value Code** — Code representing the spatial dimension value.
+- **Parent Location Code** — Code representing the parent geographical location.
+- **Parent Location** — Parent geographical location associated with the record.
+- **Time Dimension** — Time period associated with the observation.
+- **Numeric Value** — Numerical value of the reported indicator.
+- **Time Dimension Value** — Numerical representation of the time period.
+
+For this project, the 10 datasets were **cleaned, validated, consolidated into a TB Master Dataset, and filtered to 2024** for analysis.
 
 ---
 
