@@ -22,23 +22,25 @@ Multiple tuberculosis datasets were cleaned, transformed, and consolidated into 
 
 ## 🎯 What Does This Project Explore?
 
-- 🌍 What does the global TB burden look like in 2024?
-- 📍 Which countries have the highest estimated TB cases?
-- ⚰️ Which countries record the highest number of TB deaths?
-- 🗺️ How does TB incidence vary across WHO regions?
-- 👧 What is the burden of TB among children aged 0–14?
-- 🧬 How are HIV-positive TB cases distributed across countries?
-- 💊 How does TB treatment coverage vary?
-- 💰 How is the estimated TB burden distributed across World Bank income groups?
-- 📊 What relationship can be observed between TB incidence and treatment coverage?
+The objective of this project is to analyze WHO tuberculosis data for **2024** to understand the **Global TB burden** and identify key patterns across countries, regions, populations, and income groups.
+
+### 🔎 The Analysis Aims to:
+
+- 🌍 **Identify** countries and regions with the highest TB burden.
+- ⚰️ **Analyze** TB cases, deaths, and incidence rates.
+- 👧 **Examine** the burden of TB among children and HIV-positive populations.
+- 🦠 **Analyze** the distribution of MDR/RR-TB cases.
+- 💊 **Compare** TB treatment coverage across countries.
+- 💰 **Examine** the distribution of TB cases across World Bank income groups.
+- 📊 **Transform** the findings into meaningful, interactive insights using **Power BI**..
 
 ---
 
-## 📂 Dataset Information
+## 📂 Data Overview
 
 The project uses **10 WHO tuberculosis datasets**, with each dataset representing a specific aspect of the global tuberculosis burden.
 
-| Dataset | What It Contains / Represents |
+| Dataset | What It Contains |
 |---|---|
 | **TB Incidence** | Estimated TB incidence rate, representing the occurrence of tuberculosis cases in the population. |
 | **TB Incidence Cases** | Estimated number of incident tuberculosis cases. |
@@ -79,18 +81,6 @@ The data contains tuberculosis-related indicators across countries, regions, and
 
 **Source:**  
 https://www.who.int/data/gho/data/themes/topics/topic-details/GHO/cases-and-deaths
-
----
-
-## 🎯 Problem Statement
-
-This project seeks to uncover **where, how, and among whom the global TB burden is concentrated in 2024**.
-
-- 🌍 **Where is TB most prevalent?** — Identify countries and regions with the highest TB cases and incidence.
-- ⚰️ **Where is the impact greatest?** — Compare TB deaths across countries and regions.
-- 👧 **Who is affected?** — Explore childhood and HIV-positive TB cases.
-- 💊 **How well are countries responding?** — Compare treatment coverage with TB incidence.
-- 💰 **How is the burden distributed?** — Examine TB cases across World Bank income groups.
 
 ---
 
