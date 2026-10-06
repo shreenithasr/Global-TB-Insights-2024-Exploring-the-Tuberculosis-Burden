@@ -198,15 +198,6 @@ Based on the findings, the analysis highlights the need to:
 
 ---
 
-## 🛠️ Tools Used
-
-- 📊 **Microsoft Excel** — Data inspection and preparation
-- 🔄 **Power Query** — Data cleaning, transformation, and consolidation
-- 📈 **Power BI** — Data modeling, analysis, and visualization
-- 📐 **DAX** — Measures and analytical calculations
-  
----
-
 ## 👩‍💻 Author
 
 **Shreenitha SR**  
