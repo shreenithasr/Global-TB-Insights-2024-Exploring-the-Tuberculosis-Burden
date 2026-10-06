@@ -80,7 +80,12 @@ The datasets were prepared using **Microsoft Excel and Power Query** through the
 8. **2024 Filtering** — Filtered the consolidated dataset to include only records relevant to the **2024 analysis**.
 
 ---
-Developed **interactive Power BI dashboards** to address the key problem statements using:
+
+## 📊 Analysis & Visualisation
+
+The cleaned dataset was analyzed and transformed into interactive Power BI dashboards to explore key tuberculosis indicators and uncover meaningful patterns and comparisons.
+
+### Visualizations Used
 
 - KPI Cards
 - Bar Charts
@@ -91,9 +96,9 @@ Developed **interactive Power BI dashboards** to address the key problem stateme
 - Maps
 - Slicers
 
-**Areas of Analysis:**
+### Areas of Analysis
 
-- **TB Burden** – Compares estimated TB cases and deaths across countries and WHO regions.
+- **TB Burden** – Analyzes the scale and distribution of TB cases and deaths across countries and WHO regions.
 - **TB Incidence** – Examines TB incidence rates across countries and WHO regions.
 - **Childhood TB** – Analyzes TB cases among children aged 0–14.
 - **HIV-Positive TB** – Explores the distribution of TB cases among HIV-positive populations.
@@ -101,6 +106,7 @@ Developed **interactive Power BI dashboards** to address the key problem stateme
 - **Treatment Coverage** – Examines treatment coverage and its relationship with TB incidence.
 - **Income Group Analysis** – Analyzes the distribution of estimated TB cases across World Bank income groups.
 - **Regional Analysis** – Compares TB cases and deaths across WHO regions.
+
 ---
 
 
