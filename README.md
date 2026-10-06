@@ -34,6 +34,29 @@ Multiple tuberculosis datasets were cleaned, transformed, and consolidated into 
 
 ---
 
+### Dataset Information
+
+The WHO tuberculosis datasets contain information on **tuberculosis-related indicators reported across countries, WHO regions, global aggregates, and World Bank income groups**.
+
+The data represents different aspects of the global tuberculosis situation, including:
+
+| Information | What It Represents |
+|---|---|
+| **TB Incidence** | Estimated occurrence of tuberculosis cases within a population. |
+| **TB Cases** | Estimated number of people affected by tuberculosis. |
+| **TB Deaths** | Number of deaths attributed to tuberculosis. |
+| **New and Relapse Cases** | Reported tuberculosis cases that are newly diagnosed or occur as relapses. |
+| **Childhood TB Cases** | Estimated tuberculosis cases among children aged 0–14 years. |
+| **HIV-Positive TB Cases** | Tuberculosis cases occurring among people living with HIV. |
+| **HIV-Negative TB Death Rate** | TB-related deaths among HIV-negative populations, expressed as a rate. |
+| **MDR/RR-TB Cases** | Estimated cases of multidrug-resistant or rifampicin-resistant tuberculosis. |
+| **TB Treatment Coverage** | The proportion or level of estimated TB cases covered by treatment, according to the WHO indicator. |
+| **Geographical Information** | Identifies the country, WHO region, global level, or World Bank income group associated with each observation. |
+| **Time Information** | Indicates the year and time period to which each observation belongs. |
+| **Estimate Ranges** | Provides lower and upper bounds (`Low` and `High`) where estimates are reported with uncertainty ranges. |
+
+---
+
 ## 📂 Data Sources
 
 ### World Health Organization — Global Health Observatory
@@ -154,6 +177,21 @@ Explores relationships between TB indicators, including TB incidence vs. treatme
 - **MDR/RR-TB** – **India** has the highest estimated MDR/RR-TB cases (**130K**).
 - **Regional Case Burden** – **South-East Asia** records the highest number of incident TB cases (**3.7M**), followed by the Western Pacific (**2.9M**) and Africa (**2.6M**).
 - **Income Group Distribution** – Lower-middle-income countries account for the largest share of estimated TB cases, at **61.88% (6.49M)**.
+
+---
+
+## 💡 Recommendations
+
+Based on the findings, the analysis highlights the need to:
+
+- **Prioritize TB Control** – Strengthen prevention and control efforts in countries and regions with a high TB burden.
+- **Improve Early Detection** – Strengthen screening and early diagnosis in high-incidence areas.
+- **Focus on Childhood TB** – Give greater attention to countries with a high burden of TB among children.
+- **Strengthen Targeted Interventions** – Address the needs of populations affected by HIV-positive TB.
+- **Address MDR/RR-TB** – Strengthen detection, treatment, and monitoring in countries with higher estimated MDR/RR-TB cases.
+- **Improve Treatment Coverage** – Continue efforts to expand effective TB treatment coverage, particularly in high-incidence areas.
+
+> **Overall, the analysis highlights the uneven distribution of the global TB burden and the importance of targeted, data-driven TB control strategies.**
 
 ---
 
