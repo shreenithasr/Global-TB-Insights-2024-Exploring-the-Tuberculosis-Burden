@@ -64,7 +64,7 @@ Interactive Dashboard
  ↓
 Insights into the Global TB Burden
 
-## 📂 Data Sources
+**## 📂 Data Sources**
 
 ### World Health Organization — Global Health Observatory
 
