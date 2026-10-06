@@ -208,8 +208,6 @@ Based on the findings, the analysis highlights the need to:
 
 ## 👩‍💻 Author
 
-## 👩‍💻 Author
-
 **Shreenitha SR**  
 *Aspiring Data Analyst*
 
