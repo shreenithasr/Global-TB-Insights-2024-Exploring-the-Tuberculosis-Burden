@@ -203,7 +203,7 @@ Based on the findings, the analysis highlights the need to:
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20"/> **Power Query** — Data cleaning, transformation, and consolidation
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="20"/> **Power BI** — Data modeling, analysis, and visualization
 - 📐 **DAX** — Measures and analytical calculations
-- 
+  
 ---
 
 ## 👩‍💻 Author
