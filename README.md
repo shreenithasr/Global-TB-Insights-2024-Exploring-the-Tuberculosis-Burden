@@ -146,8 +146,6 @@ Explores relationships between TB indicators, including TB incidence vs. treatme
 
 ## 🔎 Key Insights
 
--## 🔍 Key Findings
-
 - **Global TB Burden** – The dashboard reports **10.70M TB cases** and **1.08M TB deaths** in 2024.
 - **Country-Level Burden** – **India** has the highest estimated TB cases (**2.71M**) and TB deaths (**300K**), followed by Indonesia.
 - **Regional Incidence** – **Africa (207)** and **South-East Asia (201)** record the highest TB incidence rates among the WHO regions analyzed.
