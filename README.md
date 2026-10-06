@@ -11,13 +11,13 @@
 
 ## 🦠 At a Glance
 
-Tuberculosis continues to represent a significant global health challenge, but its burden is not distributed evenly across countries and regions.
+Tuberculosis (TB) continues to represent a significant global health challenge, but its burden is not distributed evenly across countries and regions.
 
 This project explores the global tuberculosis landscape in 2024 using data from the **World Health Organization (WHO) Global Health Observatory (GHO)**.
 
 Multiple tuberculosis datasets were cleaned, transformed, and consolidated into a structured master dataset. The resulting data was then analyzed through an interactive **Power BI dashboard** to explore TB cases, deaths, incidence, childhood TB, HIV-positive TB, MDR/RR-TB, and treatment coverage.
 
-> From raw WHO datasets → to a cleaned master dataset → to an interactive story of the global TB burden.
+> From raw WHO datasets → to a cleaned master dataset → to an interactive story of the Global TB Burden.
 
 ---
 
