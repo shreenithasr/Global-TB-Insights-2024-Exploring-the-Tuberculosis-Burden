@@ -61,5 +61,33 @@ TB Master Dataset
 Power BI Data Modeling & Analysis
        ↓
 Interactive Dashboard
-       ↓
+ ↓
 Insights into the Global TB Burden
+
+📂 Data Sources
+World Health Organization — Global Health Observatory
+The original datasets were obtained from the World Health Organization (WHO) Global Health Observatory (GHO).
+The raw data contains tuberculosis-related indicators reported across countries, regions, global classifications, and World Bank income groups over multiple years.
+For this project, the analysis is restricted to 2024.
+Original Data Source:
+https://www.who.int/data/gho/data/themes/topics/topic-details/GHO/cases-and-deaths
+      
+🎯 Problem Statement
+This project seeks to uncover where, how, and among whom the global TB burden is concentrated in 2024.
+- 🌍 Where is TB most prevalent? — Identify countries and regions with the highest TB cases and incidence.
+- ⚰️ Where is the impact greatest? — Compare TB deaths across countries and regions.
+- 👧 Who is affected? — Explore childhood and HIV-positive TB cases.
+- 💊 How well are countries responding? — Compare treatment coverage with TB incidence.
+- 💰 How is the burden distributed? — Examine TB cases across World Bank income groups.
+
+🧾 Data Attributes
+Attribute	Description
+Indicator	Name of the TB indicator
+Location	Country, region, or income group
+Location Type	Type of geographical classification
+Period	Year of the observation
+Numeric Value	Numerical value of the indicator
+Value	Reported value
+Low / High	Lower and upper estimates
+Parent Location	Parent geographical location
+Source Data Set	Original WHO dataset
