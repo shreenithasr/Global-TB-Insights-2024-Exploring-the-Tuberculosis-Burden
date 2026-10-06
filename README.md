@@ -91,16 +91,78 @@ This project seeks to uncover **where, how, and among whom the global TB burden 
 
 ---
 
-## 🧾 Data Attributes
+## 🧹 Data Pre-Processing
 
-| Attribute | Description |
-|---|---|
-| **Indicator** | Name of the TB indicator |
-| **Location** | Country, region, or income group |
-| **Location Type** | Type of geographical classification |
-| **Period** | Year of the observation |
-| **Numeric Value** | Numerical value of the indicator |
-| **Value** | Reported value |
-| **Low / High** | Lower and upper estimates |
-| **Parent Location** | Parent geographical location |
-| **Source Data Set** | Original WHO dataset |
+The datasets were prepared using **Microsoft Excel and Power Query**.
+
+Key steps included:
+
+- Data inspection and cleaning
+- Handling missing values
+- Standardizing columns and data types
+- Checking duplicates and invalid values
+- Appending relevant datasets
+- Creating a consolidated TB Master Dataset
+- Filtering the dataset to 2024
+
+---
+
+## 📊 Power BI Dashboard
+
+The dashboard consists of three pages:
+
+### 🌍 01 — Global Tuberculosis Overview
+
+**A Summary of the Global Tuberculosis Burden | 2024**
+
+Provides a high-level view of TB cases, deaths, incidence, treatment coverage, and geographical distribution.
+
+### 🌎 02 — Country-Wise Analysis
+
+**Comparing Key Tuberculosis Indicators Across Countries | 2024**
+
+Focuses on country-level comparisons of TB cases, deaths, childhood TB, MDR/RR-TB cases, and treatment coverage.
+
+### 📈 03 — Tuberculosis Burden Analysis
+
+**Key Comparisons and Relationships Across Tuberculosis Indicators | 2024**
+
+Explores relationships between TB indicators, including TB incidence vs. treatment coverage, TB cases vs. deaths, childhood TB, and HIV-positive TB cases.
+
+---
+
+## 🔎 Key Insights
+
+- 🇮🇳 **India** has the highest estimated TB cases among the countries analyzed.
+- ⚰️ India also records the highest TB deaths in the country comparison.
+- 🌍 **Africa and South-East Asia** show the highest displayed TB incidence rates among WHO regions.
+- 👧 India has the highest number of childhood TB cases in the country comparison.
+- 💰 **Lower-middle-income countries** account for the largest share of estimated TB cases among the income groups analyzed.
+
+---
+
+## 🛠️ Tools Used
+
+- **Microsoft Excel** — Data inspection and preparation
+- **Power Query** — Data cleaning, transformation, and consolidation
+- **Power BI** — Data modeling, analysis, and visualization
+- **DAX** — Measures and analytical calculations
+
+---
+
+## 📁 Repository Structure
+
+```text
+Global-TB-Insights-2024-Exploring-the-Tuberculosis-Burden
+│
+├── 📁 Raw_Data
+│   └── README.md
+│
+├── 📁 Cleaned_Data
+│   └── README.md
+│
+├── 📁 Power BI Dashboard
+│   ├── README.md
+│   └── Global TB Insights 2024.pbix
+│
+└── 📄 README.md
