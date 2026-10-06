@@ -61,17 +61,23 @@ This project seeks to uncover **where, how, and among whom the global TB burden 
 
 ## 🧹 Data Pre-Processing
 
-The datasets were prepared using **Microsoft Excel and Power Query**.
+The datasets were prepared using **Microsoft Excel and Power Query** through the following steps:
 
-Key steps included:
+1. **Data Inspection** — Reviewed the structure, columns, and contents of all 10 WHO tuberculosis datasets.
 
-- Data inspection and cleaning
-- Handling missing values
-- Standardizing columns and data types
-- Checking duplicates and invalid values
-- Appending relevant datasets
-- Creating a consolidated TB Master Dataset
-- Filtering the dataset to 2024
+2. **Column Validation** — Identified common columns across the datasets to ensure they could be consolidated correctly.
+
+3. **Empty Column Removal** — Removed columns that contained no data across the datasets.
+
+4. **Missing Value Handling** — Identified missing values in Parent Location and Parent Location Code and handled them using conditional columns.
+
+5. **Data Standardization** — Standardized column names and verified appropriate data types for numerical, date, and categorical fields.
+
+6. **Data Validation** — Checked for duplicate records, negative values, and inconsistencies in geographical classifications.
+
+7. **Dataset Consolidation** — Appended the relevant tuberculosis datasets using Power Query to create a single **TB Master Dataset**.
+
+8. **2024 Filtering** — Filtered the consolidated dataset to include only records relevant to the **2024 analysis**.
 
 ---
 
