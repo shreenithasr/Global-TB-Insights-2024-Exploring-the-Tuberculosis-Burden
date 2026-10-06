@@ -6,3 +6,11 @@ For this project, only data for **2024** is used for analysis.
 
 **Original Data Source:** World Health Organization (WHO) – Global Health Observatory (GHO)  
 **Source:** https://www.who.int/data/gho/data/themes/topics/topic-details/GHO/cases-and-deaths
+
+## Dataset Scope
+
+- **Source:** World Health Organization (WHO) – Global Health Observatory (GHO)
+- **Year of Analysis:** 2024
+- **Domain:** Healthcare / Tuberculosis
+- **Geographical Coverage:** Countries, regions, global and World Bank income groups
+
