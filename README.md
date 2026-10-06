@@ -120,7 +120,7 @@ The dashboard consists of three interactive pages:
 
 Provides a high-level view of TB cases, deaths, incidence, treatment coverage, and geographical distribution.
 
-![Global Tuberculosis Overview](https://raw.githubusercontent.com/shreenithasr/Global-TB-Insights-2024-Exploring-the-Tuberculosis-Burden/main/Power%20BI%20Dashboard/page1.png)
+<img width="3075" height="1763" alt="Global Tuberculosis Insights 2024_page-0001" src="https://github.com/user-attachments/assets/ec3fec28-83f5-4440-8bc2-da255da3f6be" />
 
 ---
 
@@ -130,7 +130,7 @@ Provides a high-level view of TB cases, deaths, incidence, treatment coverage, a
 
 Focuses on country-level comparisons of TB cases, deaths, childhood TB, MDR/RR-TB cases, and treatment coverage.
 
-![Country-Wise Analysis](https://raw.githubusercontent.com/shreenithasr/Global-TB-Insights-2024-Exploring-the-Tuberculosis-Burden/main/Power%20BI%20Dashboard/page2.png)
+<img width="3075" height="1763" alt="Global Tuberculosis Insights 2024_page-0002" src="https://github.com/user-attachments/assets/284c17d9-ce11-4164-b8fe-6f000fbe6130" />
 
 ---
 
@@ -140,7 +140,7 @@ Focuses on country-level comparisons of TB cases, deaths, childhood TB, MDR/RR-T
 
 Explores relationships between TB indicators, including TB incidence vs. treatment coverage, TB cases vs. deaths, childhood TB, and HIV-positive TB cases.
 
-![Tuberculosis Burden Analysis](https://raw.githubusercontent.com/shreenithasr/Global-TB-Insights-2024-Exploring-the-Tuberculosis-Burden/main/Power%20BI%20Dashboard/page3.png)
+<img width="3075" height="1763" alt="Global Tuberculosis Insights 2024_page-0003" src="https://github.com/user-attachments/assets/12da157c-11bf-477f-a5a1-01d3a490117b" />
 
 ---
 
