@@ -20,7 +20,7 @@ Multiple tuberculosis datasets were cleaned, transformed, and consolidated into 
 
 ---
 
-## 🎯 What Does This Project Explore?
+## 🎯Objective of the Project
 
 The objective of this project is to analyze WHO tuberculosis data for **2024** to understand the **Global TB burden** and identify key patterns across countries, regions, populations, and income groups.
 
