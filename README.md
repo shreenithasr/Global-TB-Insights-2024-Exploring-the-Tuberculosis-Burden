@@ -146,11 +146,16 @@ Explores relationships between TB indicators, including TB incidence vs. treatme
 
 ## 🔎 Key Insights
 
-- 🇮🇳 **India** has the highest estimated TB cases among the countries analyzed.
-- ⚰️ **India** also records the highest TB deaths in the country comparison.
-- 🌍 **Africa and South-East Asia** show the highest displayed TB incidence rates among WHO regions.
-- 👧 **India** has the highest number of childhood TB cases in the country comparison.
-- 💰 **Lower-middle-income countries** account for the largest share of estimated TB cases among the income groups analyzed.
+-## 🔍 Key Findings
+
+- **Global TB Burden** – The dashboard reports **10.70M TB cases** and **1.08M TB deaths** in 2024.
+- **Country-Level Burden** – **India** has the highest estimated TB cases (**2.71M**) and TB deaths (**300K**), followed by Indonesia.
+- **Regional Incidence** – **Africa (207)** and **South-East Asia (201)** record the highest TB incidence rates among the WHO regions analyzed.
+- **Childhood TB** – **1.19M TB cases** were reported among children aged 0–14, with India recording the highest number (**289K**).
+- **HIV-Positive TB** – **South Africa** has the highest HIV-positive TB cases (**134K**), followed by India (**37K**).
+- **MDR/RR-TB** – **India** has the highest estimated MDR/RR-TB cases (**130K**).
+- **Regional Case Burden** – **South-East Asia** records the highest number of incident TB cases (**3.7M**), followed by the Western Pacific (**2.9M**) and Africa (**2.6M**).
+- **Income Group Distribution** – Lower-middle-income countries account for the largest share of estimated TB cases, at **61.88% (6.49M)**.
 
 ---
 
