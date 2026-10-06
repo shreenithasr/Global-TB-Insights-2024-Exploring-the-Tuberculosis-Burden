@@ -112,7 +112,7 @@ The cleaned dataset was analyzed and transformed into interactive Power BI dashb
 
 ## 📊 Power BI Dashboard
 
-The dashboard consists of three pages:
+The dashboard consists of three interactive pages:
 
 ### 🌍 01 — Global Tuberculosis Overview
 
@@ -120,17 +120,27 @@ The dashboard consists of three pages:
 
 Provides a high-level view of TB cases, deaths, incidence, treatment coverage, and geographical distribution.
 
+![Global Tuberculosis Overview](./Power%20BI%20Dashboard/page1.png)
+
+---
+
 ### 🌎 02 — Country-Wise Analysis
 
 **Comparing Key Tuberculosis Indicators Across Countries | 2024**
 
 Focuses on country-level comparisons of TB cases, deaths, childhood TB, MDR/RR-TB cases, and treatment coverage.
 
+![Country-Wise Analysis](./Power%20BI%20Dashboard/page2.png)
+
+---
+
 ### 📈 03 — Tuberculosis Burden Analysis
 
 **Key Comparisons and Relationships Across Tuberculosis Indicators | 2024**
 
 Explores relationships between TB indicators, including TB incidence vs. treatment coverage, TB cases vs. deaths, childhood TB, and HIV-positive TB cases.
+
+![Tuberculosis Burden Analysis](./Power%20BI%20Dashboard/page3.png)
 
 ---
 
