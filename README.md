@@ -208,9 +208,11 @@ Based on the findings, the analysis highlights the need to:
 
 ## 👩‍💻 Author
 
+## 👩‍💻 Author
+
 **Shreenitha SR**  
 *Aspiring Data Analyst*
 
-🔗 **GitHub:** [shreenithasr](https://github.com/shreenithasr)  
-💼 **LinkedIn:** [Shreenitha SR](YOUR_LINKEDIN_URL)  
-✉️ **Email:** [shreenitha.senthilkumar13@gmail.com](mailto:shreenitha.senthilkumar13@gmail.com)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20"/> **GitHub:** [shreenithasr](https://github.com/shreenithasr)  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/> **LinkedIn:** [Shreenitha SR](YOUR_LINKEDIN_URL)  
+📧 **Email:** [shreenitha.senthilkumar13@gmail.com](mailto:shreenitha.senthilkumar13@gmail.com)
