@@ -80,6 +80,36 @@ The datasets were prepared using **Microsoft Excel and Power Query** through the
 8. **2024 Filtering** — Filtered the consolidated dataset to include only records relevant to the **2024 analysis**.
 
 ---
+### 📈 Visualizations Used
+
+- KPI Cards
+- Bar Charts
+- Column Charts
+- Donut Chart
+- Scatter Plot
+- Treemap
+- Map
+
+### 🔎 Analysis Covered
+
+- Total TB cases, deaths, incidence rate, treatment coverage, and other key indicators
+- Top countries by estimated TB cases and TB deaths
+- TB incidence rates across WHO regions
+- TB cases across World Bank income groups
+- TB cases and deaths across WHO regions
+- Childhood TB cases across countries
+- HIV-positive TB cases across countries
+- MDR/RR-TB cases across countries
+- Relationship between TB incidence rate and treatment coverage
+- Geographical distribution of TB cases
+
+### 🎛️ Interactive Features
+
+- Country slicer
+- WHO Region slicer
+- World Bank Income Group slicer
+---
+
 
 ## 📊 Power BI Dashboard
 
@@ -121,21 +151,6 @@ Explores relationships between TB indicators, including TB incidence vs. treatme
 - **Power Query** — Data cleaning, transformation, and consolidation
 - **Power BI** — Data modeling, analysis, and visualization
 - **DAX** — Measures and analytical calculations
-
----
-
-## 📁 Repository Structure
-
-**Global-TB-Insights-2024-Exploring-the-Tuberculosis-Burden**
-
-- 📁 **Raw_Data**
-  - README.md
-- 📁 **Cleaned_Data**
-  - README.md
-- 📁 **Power BI Dashboard**
-  - README.md
-  - Global TB Insights 2024.pbix
-- 📄 **README.md**
 
 ---
 
