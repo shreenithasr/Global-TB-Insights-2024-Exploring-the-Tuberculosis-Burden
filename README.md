@@ -60,3 +60,13 @@ Power BI Data Modeling & Analysis
 Interactive Dashboard
        ↓
 Insights into the Global TB Burden
+## 📂 Data Sources
+
+### World Health Organization — Global Health Observatory
+
+The datasets used in this project were obtained from the **World Health Organization (WHO) Global Health Observatory (GHO)**.
+
+The data contains tuberculosis-related indicators across countries, regions, and World Bank income groups. For this project, the analysis is focused on **2024**.
+
+**Source:**  
+https://www.who.int/data/gho/data/themes/topics/topic-details/GHO/cases-and-deaths
