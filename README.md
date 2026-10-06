@@ -80,34 +80,27 @@ The datasets were prepared using **Microsoft Excel and Power Query** through the
 8. **2024 Filtering** — Filtered the consolidated dataset to include only records relevant to the **2024 analysis**.
 
 ---
-### 📈 Visualizations Used
+Developed **interactive Power BI dashboards** to address the key problem statements using:
 
 - KPI Cards
 - Bar Charts
 - Column Charts
-- Donut Chart
+- Donut Charts
+- Treemaps
 - Scatter Plot
-- Treemap
-- Map
+- Maps
+- Slicers
 
-### 🔎 Analysis Covered
+**Areas of Analysis:**
 
-- Total TB cases, deaths, incidence rate, treatment coverage, and other key indicators
-- Top countries by estimated TB cases and TB deaths
-- TB incidence rates across WHO regions
-- TB cases across World Bank income groups
-- TB cases and deaths across WHO regions
-- Childhood TB cases across countries
-- HIV-positive TB cases across countries
-- MDR/RR-TB cases across countries
-- Relationship between TB incidence rate and treatment coverage
-- Geographical distribution of TB cases
-
-### 🎛️ Interactive Features
-
-- Country slicer
-- WHO Region slicer
-- World Bank Income Group slicer
+- **TB Burden** – Compares estimated TB cases and deaths across countries and WHO regions.
+- **TB Incidence** – Examines TB incidence rates across countries and WHO regions.
+- **Childhood TB** – Analyzes TB cases among children aged 0–14.
+- **HIV-Positive TB** – Explores the distribution of TB cases among HIV-positive populations.
+- **MDR/RR-TB** – Compares estimated MDR/RR-TB cases across countries.
+- **Treatment Coverage** – Examines treatment coverage and its relationship with TB incidence.
+- **Income Group Analysis** – Analyzes the distribution of estimated TB cases across World Bank income groups.
+- **Regional Analysis** – Compares TB cases and deaths across WHO regions.
 ---
 
 
