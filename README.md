@@ -20,7 +20,7 @@ Multiple tuberculosis datasets were cleaned, transformed, and consolidated into 
 
 ---
 
-## 🎯Objective of the Project
+## 🎯 Objective of the Project
 
 The objective of this project is to analyze WHO tuberculosis data for **2024** to understand the **Global TB burden** and identify key patterns across countries, regions, populations, and income groups.
 
@@ -32,11 +32,24 @@ The objective of this project is to analyze WHO tuberculosis data for **2024** t
 - 🦠 **Analyze** the distribution of MDR/RR-TB cases.
 - 💊 **Compare** TB treatment coverage across countries.
 - 💰 **Examine** the distribution of TB cases across World Bank income groups.
-- 📊 **Transform** the findings into meaningful, interactive insights using **Power BI**..
+- 📊 **Transform** the findings into meaningful, interactive insights using **Power BI**.
 
 ---
 
-## 📂 Data Overview
+## 📂 Data Sources
+
+### World Health Organization — Global Health Observatory
+
+The datasets used in this project were obtained from the **World Health Organization (WHO) Global Health Observatory (GHO)**.
+
+The data contains tuberculosis-related indicators across countries, regions, and World Bank income groups. For this project, the analysis is focused on **2024**.
+
+**Source:**  
+https://www.who.int/data/gho/data/themes/topics/topic-details/GHO/cases-and-deaths
+
+---
+
+## 🌐 Data Landscape
 
 The project uses **10 WHO tuberculosis datasets**, with each dataset representing a specific aspect of the global tuberculosis burden.
 
@@ -68,19 +81,6 @@ The datasets contain common fields providing information about each observation:
 - **Time Dimension Value** — Numerical representation of the time period.
 
 For this project, the 10 datasets were **cleaned, validated, consolidated into a TB Master Dataset, and filtered to 2024** for analysis.
-
----
-
-## 📂 Data Sources
-
-### World Health Organization — Global Health Observatory
-
-The datasets used in this project were obtained from the **World Health Organization (WHO) Global Health Observatory (GHO)**.
-
-The data contains tuberculosis-related indicators across countries, regions, and World Bank income groups. For this project, the analysis is focused on **2024**.
-
-**Source:**  
-https://www.who.int/data/gho/data/themes/topics/topic-details/GHO/cases-and-deaths
 
 ---
 
@@ -208,10 +208,9 @@ Based on the findings, the analysis highlights the need to:
 
 ## 👩‍💻 Author
 
-**Shreenitha SR**
-
+**Shreenitha SR**  
 *Aspiring Data Analyst*
 
-🔗 [GitHub](https://github.com/shreenithasr)
-
-🔗 [LinkedIn](#)
+🔗 **GitHub:** [shreenithasr](https://github.com/shreenithasr)  
+💼 **LinkedIn:** [Shreenitha SR](YOUR_LINKEDIN_URL)  
+✉️ **Email:** [shreenitha.senthilkumar13@gmail.com](mailto:shreenitha.senthilkumar13@gmail.com)
